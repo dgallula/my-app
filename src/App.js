@@ -1,6 +1,5 @@
- import Todo from './Todo';
- 
 
+import Todo from './Todo';
 
 function App() {
   return (
