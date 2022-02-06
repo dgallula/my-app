@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import store from '../store';
-import styled from 'styled-components';
+import styled from 'styled-components/macro'; /* ✅ Syntaxe compatible babel macro */
+
 const Todo = () => {
   /**
 7
